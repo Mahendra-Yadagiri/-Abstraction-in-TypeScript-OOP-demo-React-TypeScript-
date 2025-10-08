@@ -1,0 +1,2 @@
+# -Abstraction-in-TypeScript-OOP-demo-React-TypeScript-
+Single-page React + TypeScript demo demonstrating abstraction and OOP using an abstract Animal class with Lion, Tiger, and Cat children. Shows runtime console behavior, componentized UI, and step-by-step comments for learners. Great for exploring extensibility, clean TypeScript architecture, and testable design. MIT. Deployable to Netlify. README.
